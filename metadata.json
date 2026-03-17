@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PARTICIPA.AI",
+  "description": "Plataforma de administração participativa com foco em transparência, engajamento cidadão e IA.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
